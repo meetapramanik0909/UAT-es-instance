@@ -2,6 +2,7 @@
     <version>61.0</version>
     <types>
         <members>AccountHandler</members>
+        <members>AddPrimaryContact</members>
         <name>ApexClass</name>
     </types>
     <types>
