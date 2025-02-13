@@ -3,6 +3,7 @@
     <types>
         <members>AccountHandler</members>
         <members>AddPrimaryContact</members>
+        <members>ClassA</members>
         <name>ApexClass</name>
     </types>
     <types>
